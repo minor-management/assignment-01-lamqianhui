@@ -45,6 +45,5 @@ Vitrox Corps. It has growing revenue by the year while Pentamaster has dropped i
 Ilham Abrar Resources ( https://www.exporters.sg/member_profile.asp?co_id=277297 ) and Trivision Northern Resources ( https://trivisionstudios.com/ )
 
 
-
 -- End -- <br>
 *Add 'Completed' as commit message after completing the assignment.
